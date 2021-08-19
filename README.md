@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Ginga iTV middleware at MoPA Embedded Systems
+- 🔭 I’m currently working on [HiChee](https://hichee.com) at [ShakaCode](https://www.shakacode.com/).
 
 <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubenochiavone&layout=compact" alt="languages" height="165">
