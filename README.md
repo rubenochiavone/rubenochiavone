@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at [ShakaCode](https://www.shakacode.com/).
+- 🔭 I’m currently working at [ShakaCode, LLC](https://www.shakacode.com/).
 
 <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubenochiavone&layout=compact" alt="languages" height="165">
